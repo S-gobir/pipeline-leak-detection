@@ -1,5 +1,5 @@
 
- Pipeline Leak Detection Model
+ # Pipeline Leak Detection Model
 
 This repository contains the code, trained model, and documentation for detecting pipeline leaks by identifying **gas** and **water leaks** using deep learning. The model was developed using the **Ultralytics YOLOv8** framework, trained on a dataset sourced from Roboflow.
 
@@ -128,6 +128,3 @@ Special thanks to:
 ## License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
-```
-
-Copy and paste this into your repository's `README.md` file. Let me know if you need further adjustments!
