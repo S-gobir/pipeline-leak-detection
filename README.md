@@ -1,7 +1,5 @@
-Here’s the README in **Markdown** format:
 
-```markdown
-# Pipeline Leak Detection Model
+ Pipeline Leak Detection Model
 
 This repository contains the code, trained model, and documentation for detecting pipeline leaks by identifying **gas** and **water leaks** using deep learning. The model was developed using the **Ultralytics YOLOv8** framework, trained on a dataset sourced from Roboflow.
 
